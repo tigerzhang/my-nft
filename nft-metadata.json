@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Game"
+    },
+    {
+      "trait_type": "Size",
+      "value": "A4"
+    }
+  ],
+  "description": "An avatar from a game which my kid is playing",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWA3JBVaxvxGj3KhLKDELw4qfU8s99e69QkwqDvRbtCnZ",
+  "name": "Unknown"
+}
